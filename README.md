@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, c'est Tom</h1>
 <h3 align="center">Un développeur web Front-End passioné.</h3>
 
-- J'apprends actuellement **React.JS**
+- 🌱 J'apprends actuellement **React.JS**
 
 - 📫 Pour me contacter **tom.sonvico.pro@gmail.com**
 
