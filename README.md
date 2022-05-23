@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, c'est Tom</h1>
-<h3 align="center">Un développeur web Front-End passioné.</h3>
+<h3 align="center">Un développeur web Front-End passionné.</h3>
 
 - 🌱 J'apprends actuellement **React.JS**
 
