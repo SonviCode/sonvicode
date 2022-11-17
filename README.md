@@ -5,7 +5,7 @@
 
 - 📫 Pour me contacter **tom.sonvico.pro@gmail.com**
 
-- 💻 Mon portfolio : **https://tom-sonvico.vercel.app/**
+- 💻 Mon portfolio : **https://tom-sonvico.fr**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
