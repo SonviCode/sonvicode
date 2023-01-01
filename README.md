@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, c'est Tom</h1>
 <h3 align="center">Un développeur web Front-End passionné !</h3>
 
-- 🌱 J'apprends actuellement **Next.JS** - **Typescript**
+- 🌱 J'apprends actuellement **Next.JS** & **Typescript**
 
 - 📫 Pour me contacter **tom.sonvico.pro@gmail.com**
 
