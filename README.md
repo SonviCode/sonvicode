@@ -7,10 +7,7 @@
 
 - 💻 Mon portfolio : **https://tom-sonvico.fr**
 
-<h3 align="left">Connectez-vous avec moi :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tom-sonvico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom sonvico" height="30" width="40" /></a>
-</p>
+- Linkedin : <a href="https://linkedin.com/in/tom-sonvico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom sonvico" height="30" width="40" /></a>
 
 <h3 align="left">Languages et outils que j'utilise :</h3>
 <p align="left"> 
